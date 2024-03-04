@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oTf0+M3rlR2rCLfESq97pjox3dsVeN59SgdSTbZCvN4C/ydZGm05KmfAilct5Q3BnQ3Fg/17K5b/4ySI4tO9JQ==",
+  "success": true,
+  "projectFilePath": "/home/monceftayoub/RiderProjects/solutionAPI/solutionAPI/solutionAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/monceftayoub/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/monceftayoub/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/monceftayoub/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/monceftayoub/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
